@@ -27,4 +27,8 @@ https://github.com/angular/angular-cli/pull/7969
 Fixed an issue on notomo repo (hacktoberfest, created a pr):
 https://github.com/vkolova/notum/pull/10
 
+### R1D5
+Worked on travisCI on running ionic unit tests in chrome headless mode
+https://docs.travis-ci.com/user/gui-and-headless-browsers/
+
 
