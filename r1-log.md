@@ -31,4 +31,9 @@ https://github.com/vkolova/notum/pull/10
 Worked on travisCI on running ionic unit tests in chrome headless mode
 https://docs.travis-ci.com/user/gui-and-headless-browsers/
 
+### R1D7
+Researched on how we can set up ionic cordova builds on travisCI. Found a really nice github repo that
+actually does it already. Read some more examples. Gonna continue this tomorrow.
+https://github.com/okode/ionic-travis
+
 
