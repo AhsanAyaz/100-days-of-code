@@ -37,3 +37,5 @@ actually does it already. Read some more examples. Gonna continue this tomorrow.
 https://github.com/okode/ionic-travis
 
 
+### R1D8
+Worked on Travisci build for ios today. It was breaking. Found out that an older xcode version is used by default.
