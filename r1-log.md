@@ -39,3 +39,8 @@ https://github.com/okode/ionic-travis
 
 ### R1D8
 Worked on Travisci build for ios today. It was breaking. Found out that an older xcode version is used by default.
+
+### R1D9
+Worked on a sample application which I'll be using in a workshop coming up for ngPakistan.
+Worked on Angular Inputs, Outputs (event emitters), [(ngModel)], interfaces etc and created a simple app.
+
